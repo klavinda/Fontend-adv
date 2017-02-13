@@ -4,11 +4,12 @@ html {
 	content: 'test';
 }
 
-h1 {
-	color: red;
+.header {
+	margin-top: 50px;
+	padding-top: 50px;
 }
 
-h2 {
-	color: orange;
-	font-size: 80px;
-}
+	.logo {
+		max-width: 106px;
+		margin-left: 40%;
+	}
